@@ -6,10 +6,15 @@
 	objectVersion = 50;
 	objects = {
 
+/* Begin PBXFileReference section */
+		62FB1EE222CEE7EB001D6A42 /* minidlna.sh */ = {isa = PBXFileReference; lastKnownFileType = text.script.sh; path = minidlna.sh; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
 /* Begin PBXGroup section */
 		62FB1EDB22CEE78B001D6A42 = {
 			isa = PBXGroup;
 			children = (
+				62FB1EE222CEE7EB001D6A42 /* minidlna.sh */,
 			);
 			sourceTree = "<group>";
 		};
